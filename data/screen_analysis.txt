@@ -1,0 +1,136 @@
+1. Sign up
+    - As an user, i can sign up with full name, email and password.
+2. Sign in
+    - As an user, i can sign in with email and password.
+3. Verification Code
+    - After input sign in infomations, user will recive a verification code via email and input to verification code form.
+4. Reset password
+    - As an user, i can reset password when i forgot my password by inputting a current email.
+5. Phone Registration
+    - As an user, i have to input my phone nummber and verify it.
+6. Side Menu
+    - As an user, i can see my profile picture, full name ans email address in the side bar menu
+    - As an user, i can manager my orders list.
+    - As an user, i can manager my profile.
+    - As an user, i can manager delivery address.
+    - As an user, i can manager my payment method.
+    - As an user, i can know how to contact to the owner's app 
+    - As an user, i can setting up application.
+    - As an user, i can see helps and FAQs portal.
+    - As an user, i can logout
+
+7. Home Screen
+    - As an user, i can search food or restaurant.
+    - As an user, i can filter food by condition.
+    - As an user, i can choose foods list by categories list.
+    - As an user, i can view all of restaurants list.
+    - As an user, i can see food item and view all of list food items.
+8. Food Details
+    - As an user, i can see a food's detailed information such as images, title, price, rating point, total rating, food decription.
+    - As an user, i can see view of review and rating.
+    - As an user, i can add current food to my favourite list.
+    - As an user, i can choose the other add on to food such as: Masroom, baby spinach...
+    - As an user, i can add current food to the cart.
+9. Restutrnt Profile
+    - Restaurant's info
+    - Restaurant categories
+    - rating, point
+    - Review list
+    - Featured items
+    - Food types //
+10. Search Restaurant
+    - Search by categories, types.
+    - Restaurans list
+    - Total result
+11. Search Food
+    - Search food by categories or type of food
+    - Foods list
+12. Category
+    - Category foods list
+    - Filter by Popular...
+
+13. Cart 
+    - Cart list: quatity, price, total price, delivery, tax and Featured
+    - Promo code
+    - Checkout
+14. Payment 
+    - Add more credit,
+    - Credit list
+    - Display user location
+    - Comfirm order
+
+15. Add new card
+    - Input card name, card number, expires, cvv.
+    - Save card
+16. Scan card
+
+17. Profile manager
+    - Edit avatar
+    - Edit full name, Email, phone number
+
+18. My orders
+    - Order history list
+    - order: logo, date time, price, brand, status
+    - Rate to order
+    - reorder
+    - Upcoming list
+    - Upcoming item; logo, items quatity, order id, brand, arrival time
+    - Tracking order
+    - Cancel order
+    - Lasted orders list
+19. Order Details
+    - Order detail: logo, order_at, id, brand, status
+    - Deliverer: avatar, id, full name, phone number
+    - Call for deliverrer
+    - Food detail: image, name, type, price
+    - Credit card info
+    - Total 
+20. Map Order Traking
+    - Map Tracking
+    - Distance
+    - Delivery place
+    - Delivery process
+    - Deliverier info
+21. Map view
+22. Filter
+    - Cuisines: Fast food, Breakfast, Asia, Mexican, Pizza, Donat
+    - Short by: Popular, Free delivery, Neaerst me, Cost low to hight, Delivery time
+    - Rating: 5,4,3,2,1
+    - Price range: 
+24. Delivery address
+    - Current delivery address list
+    - Delivery address item: icon, type place, phone number, address
+    - Add new address
+
+25. Add new address
+    - Full name, phone number, state, city, street
+    - save new address
+26. Search Food
+    - Hint Recent searches
+    - Cuisines. .
+27. Cancel now
+    - Cancel order
+28. Favorites Food Items
+    - Display favorites food list
+    - Favorites food item: heart, price, image, name, food stuff, rating
+29. Favorites  Resturents
+    - Display favorites restaurants list
+    - Favorites restaurant: rating, heart, image, brand, (free delivery, 30-35 mins)
+    - Cuisines list
+30. Rating (for restaurant and order)
+    - Restaurans info: logo, images, address, order status
+    - input comment, rating point
+    - Submit Rating
+31. Review list
+    - Review item: user rating: avatar, full name, point, rated_at, comment
+    - Write a review
+32. Review Food 
+    - Food info: images, title
+    - input review, point
+    - Submit rating
+33. Review Resturent    
+    - Restaurant info: logo, brand name.
+    - input review, point
+    - Submit rating
+
+
